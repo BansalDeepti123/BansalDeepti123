@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BansalDeepti123
 - 👀 I’m interested in data science...
 - 🌱 I’m currently learning .data science ..
-- 💞️ I’m looking to collaborate on ..python, machine learning.
+- 💞️ I’m looking to collaborate on ..python, machine learning,sql.
 - 📫 How to reach me ...bansaldeepti1997@gmail.com
 
 <!---
